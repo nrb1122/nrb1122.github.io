@@ -1,0 +1,9 @@
+references:
+
+https://developers.google.com/maps/documentation/javascript/infowindows
+http://api.jquery.com/event.pagex/
+http://www.w3schools.com/jsref/jsref_replace.asp
+http://jsonlint.com/
+http://jshint.com/
+http://css-tricks.com/snippets/jquery/smooth-scrolling/
+http://www.w3schools.com/cssref/pr_text_text-transform.asp
